@@ -1,12 +1,11 @@
-package com.xworkz.corejava.inheritance.simpleInheritance.Cow;
+package com.xworkz.corejava.Inheritance.SimpleInheritance.Cow;
 
 public class Cow {
 
 	void eat() {
-		System.out.println("Cow eats Grass");
+		System.out.println("Cow Eats Grass");
 	}
-	void produceMilk() {
+	void ProduceMilk() {
 		System.out.println("Cow Produces Milk");
-		
 	}
 }

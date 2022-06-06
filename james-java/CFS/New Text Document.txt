@@ -1,0 +1,17 @@
+class Value{
+         void Sum(int x,y){
+	 int sum = 0;
+	 sum=x+y;
+	 return sum;	
+          }
+	 void Diff(int x,y){
+	 int difference = 0;
+	 difference= x-y;
+	 return difference;
+	  } 
+	public static void main(String args[]){
+		Value value = new ReturnValue();
+		System.out.println("Sum of numbers are:" + value.Sum(10,17));
+		System.out.println(Difference of numbers are:" + value.diff(10,17)); 
+     }
+}
