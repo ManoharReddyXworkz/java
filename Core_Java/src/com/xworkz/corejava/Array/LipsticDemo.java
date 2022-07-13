@@ -2,7 +2,7 @@ package com.xworkz.corejava.Array;
 
 public class LipsticDemo {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {			
 		
 		Lipstick lakme = new Lipstick ("Lakme","black",10.00);
 		Lipstick mac = new Lipstick ("mac","pink",5.00);
